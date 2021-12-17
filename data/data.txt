@@ -1,0 +1,10 @@
+tueta 10 17600
+DTP 4 4800
+Phuc1 3 3500
+NoName 2 1800
+NoName 2 1400
+abc1 1 600
+Hung1 1 600
+null 1 600
+test 1 500
+AnDanh 1 500
